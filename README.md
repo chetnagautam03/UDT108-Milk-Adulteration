@@ -1,6 +1,6 @@
 # Milk Adulteration Detection Using Machine Learning
 
-**Course:** UDT108 – Project and Case Study (Semester VIII)  
+**Course:** UDT108 – Project and Case Study (Semester VII)  
 **Institution:** K.R. Mangalam University  
 
 ## Project Overview
